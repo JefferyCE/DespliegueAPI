@@ -13,7 +13,7 @@ const swaggerSpec =
             version: "1.0",
             description: "API for Bernat",
             contact: {
-                name: "DAW CLASS",
+                name: "JefferyCE",
                 email: "support@gmail.com",
                 url: "https://api.com"
             },
