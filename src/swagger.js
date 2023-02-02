@@ -251,7 +251,7 @@ const swaggerSpec =
                                             id: {
                                                 type: "integer",
                                                 format: "int64",
-                                                example: "3"
+                                                example: "5"
                                             },
                                             name: {
                                                 type: "string",
